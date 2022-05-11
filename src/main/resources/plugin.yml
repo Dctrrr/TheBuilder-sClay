@@ -1,0 +1,6 @@
+name: TheBuildersClay
+version: '${project.version}'
+main: buildersclay.builders.clay
+api-version: 1.16
+commands:
+  builderclay:
